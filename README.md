@@ -2,9 +2,7 @@
 
 Welcome to VINO AI, a powerful image transformation platform built with Next.js, TypeScript, MongoDB, Clerk, Stripe, Shadcn, and TailwindCSS.
 
-## 🌐 Website UI
 
-![vinoUI](https://github.com/Hero777-tech/VINO_AI/assets/68598911/e478aed3-ad69-49aa-ba99-efb5c4194b79)
 
 
 ## 💻 Technology Used
@@ -59,7 +57,7 @@ Welcome to VINO AI, a powerful image transformation platform built with Next.js,
 
 ## 🎃 Learn More
 
-To learn more about VINO AI and its features, feel free to explore the project's GitHub repository: [VINO AI GitHub Repository](https://github.com/Hero777-tech/VINO_AI/)
+To learn more about VINO AI and its features, feel free to explore the project's GitHub repository: [IMAGE MODIFICATION AI GitHub Repository](https://github.com/saifee1905/Image-Modification)
 
 ## 📚 References
 ## Guide -- 
