@@ -13,7 +13,7 @@ Welcome to VINO AI, a powerful image transformation platform built with Next.js,
 - **Clerk**: A user authentication and authorization tool for secure user access.
 - **Cloudinary**: A cloud-based image and video management solution for image processing and manipulation.
 - **Stripe**: A payment gateway for secure credit card transactions.
-- **Shadcn**: (Please provide more details about Shadcn)
+- **Shadcn**: For reusable powerful UI of the application.
 - **TailwindCSS**: A utility-first CSS framework for creating custom designs with ease.
 
 ## 🛠️ API or Other Technologies Used
